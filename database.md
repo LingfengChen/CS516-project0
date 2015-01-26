@@ -60,7 +60,7 @@
 	- [1][official website](http://www.actian.com/products/operational-databases/)
 
 #Impala#
--Strengths
+- Strengths
 	- flexibility and scalability[1]
 	- combining hadoop and SQL[1]
 	- unified resource management[1]	
