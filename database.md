@@ -10,6 +10,7 @@
 - References
 	- [1][official website](www.1010data.com)
 	- [2]Magic Quadrant for Data Warehouse Database Management System
+
 #Accumulo#
 - Strengths
 	- open-source[1]
@@ -26,6 +27,8 @@
 - References
 	- [1][sec.chinabyte.com](http://sec.chinabyte.com/131/13190631.shtml)
 	- [2][Accumulo](https://www.safaribooksonline.com/library/view/accumulo/9781491947098/ch01.html)
+
+
 #Actian Ingres#
 - Strengths
 	- no compromise on the data[1]
@@ -91,6 +94,8 @@
 - References
 	- [1][cloudera](http://www.cloudera.com/content/cloudera/en/products-and-services/cdh/impala.html)
 	- [2][Hbase vs arangoDB](http://vschart.com/compare/arangodb/vs/hbase)
+
+
 #Teradata#
 - Strengths
 	- good at dealing with big amount of data[1]
@@ -104,6 +109,8 @@
 	- high price[1]
 - References
 	- [1]Magic Quadrant for Data Warehouse Database Management System
+
+
 #Oracle Exadata#
 - Strengths
 	- good at event-type tasks[1]
@@ -115,6 +122,8 @@
 	- high price[1]
 - references
 	- [1]Magic Quadrant for Data Warehouse Database Management System
+
+
 #IBM Netezza#
 - Strengths
 	- aim at data analysis[1]
@@ -294,6 +303,8 @@
 - References
 	- [1][NoSQL Performance when Scaling by RAM](http://info.couchbase.com/rs/northscale/images/NoSQL_Performance_Scaling_by_RAM.pdf)
 	- [2][titan vs couchbase](http://vschart.com/compare/titan-database/vs/couchbase)
+
+
 #AffinityDB#
 - Strengths
 	- open-source[1]
